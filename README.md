@@ -1,0 +1,2 @@
+# Python-Database-easy-
+A python database where you can create, delete, display, or modify accounts and informations. Im not very good at making databases especially using python. I plan to add more to it and possible work with sql. If successful, I will work with html, css, javascript, php, django, and sql as a mega project for myself to create a dumb website to practice saving and manipulating information. Its all to understand how back end development is like.
